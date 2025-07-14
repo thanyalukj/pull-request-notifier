@@ -1,6 +1,6 @@
-name: Hello, World!
-description: Greet someone and record the time
-author: GitHub Actions
+name: PR Notifier
+description: Notify about pull request events
+author: Thanyaluk Jirapechumpai
 
 # Define your inputs here.
 inputs:
